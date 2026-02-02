@@ -7,7 +7,7 @@ In that time I havent done much coding in my free time. I am looking to change t
 
 ### A little more about me:
 
-- I’m currently learning Python, TypeScript and reviewing some coding fundamentals
+- I’m currently learning Python, TypeScript and reviewing some coding fundamentals (shoutout boot.dev for making that really straightforward)
 - Would love to get into some open source development
 - How to reach me: email: farkas.stev@gmail.com
 - Pronouns: He/Him
