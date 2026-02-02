@@ -2,8 +2,9 @@
 
 ### A little about me:
 
+Backend-focused Software Engineer with ~4 years of professional experience, primarily in Java, currently strengthening fundamentals and building Python projects.
 I have worked professionally as a dev for around 4 years. Primarily familiar with doing backend Java development (with a little bit of front end javascript mixed in).
-In that time I havent done much coding in my free time. I am looking to change that, so currently really excited to try new things out to see what I like and to go from there. 
+I am looking to do more coding in my free time, and to really find what excites me, so currently really excited to try new things out and to go from there. 
 
 ### A little more about me:
 
