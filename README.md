@@ -7,7 +7,7 @@ Currently strengthening core fundamentals and building Python projects, with pla
 of work and experimenting with different technologies to discover what excites me long-term.
 
 ### Current Interests:
-- Explore Modern software architectures
+- Explore modern software architectures
 - Expand skills in cybersecurity and secure coding practices
 - Learn new programming languages (e.g. Python, Typescript, Rust, Scala)
 - Collaberate across diverse teams to broaden technical perspective
