@@ -10,7 +10,7 @@ of work and experimenting with different technologies to discover what excites m
 - Explore modern software architectures
 - Expand skills in cybersecurity and secure coding practices
 - Learn new programming languages (e.g. Python, Typescript, Rust, Scala)
-- Collaberate across diverse teams to broaden technical perspective
+- Collaborate across diverse teams to broaden technical perspective
 
 ### A little more about me:
 
